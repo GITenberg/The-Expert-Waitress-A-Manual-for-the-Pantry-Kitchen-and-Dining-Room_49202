@@ -1,10 +1,16 @@
 _repo: The-Expert-Waitress-A-Manual-for-the-Pantry-Kitchen-and-Dining-Room_49202
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49202-h/images/cover.jpg
 creator:
   author:
     agent_name: Springsteed, Anne Frances
     gutenberg_agent_id: '45190'
     url: http://www.gutenberg.org/2009/agents/45190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49202#The-Expert-Waitress-A-Manual-for-the-Pantry-Kitchen-and-Dining-Room
 gutenberg_issued: '2015-06-12'
 gutenberg_type: Text
 identifiers:
